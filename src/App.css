@@ -1,0 +1,28 @@
+.Title{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  color: brown;
+  font-family: 'Dancing Script', cursive;
+}
+.card-img-top{
+max-width: 500px;
+max-height: 500px;
+}
+.card{
+margin-top: 20%;
+margin-left: 10%;
+margin-right: 10%;
+}
+.card :hover{
+  transform: scale(1.15);
+}
+.row{
+  margin-top: px;
+}
+.form-select{
+margin-left: 230%;
+margin-top: 7%;
+}
+
